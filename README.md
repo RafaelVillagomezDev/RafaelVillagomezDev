@@ -18,7 +18,7 @@
 
 ## 💻 Lenguajes y librerias 
 
-![Node js,Php,Python,Express,Css,Html,React](https://skillicons.dev/icons?i=js,nodejs,php,python,express,css,html,react,vue,typescript)
+![Node js,Php,Python,Express,Css,Html,React](https://skillicons.dev/icons?i=js,nodejs,php,python,express,css,html,react,vue,typescript,python)
 
 ## 💻 Bases de datos
 
