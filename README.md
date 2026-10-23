@@ -10,7 +10,7 @@
 
 - 🔭 Trabajo como  [Desarrollador de Sofware](https://www.linkedin.com/in/rafaelvillagomez/) 
 - 🌱 Trato de buscar todo el feedback posible en los proyectos, con el fin de mejorar y poder hacer aplicaciones que ayuden a las personas.
-- 📝 En mis ratos libres desarrollo proyectos con el fin de mejorar como desarrollador y probar nuevas tecnologías [Proyectos](https://yandrydev.es/proyects).
+- 📝 En mis ratos libres desarrollo proyectos con el fin de mejorar como desarrollador y probar nuevas tecnologías [Proyectos](https://yandrydev.cloud/porfolio/).
 - 🏆 Suelo compartir mis logros , proyectos y consejos en mi  [Linkdn](https://www.linkedin.com/in/rafaelvillagomez/).
 - ⚡ Me gusta jugar a videojuegos , ver peliculas , viajar e ir a catas de vinos 
 
