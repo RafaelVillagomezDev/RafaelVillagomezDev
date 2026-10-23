@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 Actualmente estoy trabajando en  [Globant](https://www.linkedin.com/company/globant/) como  [Ingeniero de Sotware](https://www.linkedin.com/in/rafaelvillagomez/) 
+- 🔭 Trabajo como  [Desarrollador de Sofware](https://www.linkedin.com/in/rafaelvillagomez/) 
 - 🌱 Trato de buscar todo el feedback posible en los proyectos, con el fin de mejorar y poder hacer aplicaciones que ayuden a las personas.
 - 📝 En mis ratos libres desarrollo proyectos con el fin de mejorar como desarrollador y probar nuevas tecnologías [Proyectos](https://yandrydev.es/proyects).
 - 🏆 Suelo compartir mis logros , proyectos y consejos en mi  [Linkdn](https://www.linkedin.com/in/rafaelvillagomez/).
