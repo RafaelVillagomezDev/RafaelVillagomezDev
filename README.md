@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hola, soy Yandry Rafael Villagomez Montero!](assets/header.png)](https://www.linkedin.com/in/rafaelvillagomez/)
+[![Hola, soy Yandry Rafael Villagomez Montero!]]
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelvillagomez/) &nbsp;
